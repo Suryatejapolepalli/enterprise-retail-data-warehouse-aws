@@ -324,11 +324,6 @@ This project demonstrates hands-on expertise in:
 
 ---
 
-## AWS Architecture Diagram
-
-![AWS Architecture](screenshots/architecture.png)
-
----
 
 ## S3 Raw Layer
 
