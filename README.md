@@ -12,8 +12,7 @@ The framework simulates a real-world enterprise retail analytics platform used f
 
 ## Architecture Diagram
 
-<img width="1672" height="941" alt="AWS Architecture" src="https://github.com/user-attachments/assets/02318481-e49e-47e8-ac67-7493bff635f9" />
-
+![AWS Architecture](architecture/aws_enterprise_retail_warehouse_architecture.png)
 ---
 
 ## AWS Services Used
