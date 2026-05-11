@@ -320,6 +320,79 @@ This project demonstrates hands-on expertise in:
 - Serverless Analytics Platforms
 
 ---
+# Screenshots
+
+---
+
+## AWS Architecture Diagram
+
+![AWS Architecture](screenshots/architecture.png)
+
+---
+
+## S3 Raw Layer
+
+![S3 Raw Layer](screenshots/s3_raw_layer.png)
+
+---
+
+## AWS Glue ETL Job Success
+
+![Glue Job Success](screenshots/glue_job_success.png)
+
+---
+
+## Event-Driven Lambda Trigger
+
+![Lambda Trigger](screenshots/lambda_trigger.png)
+
+---
+
+## CloudWatch Monitoring Logs
+
+![CloudWatch Logs](screenshots/cloudwatch_logs.png)
+
+---
+
+## SNS Alerting Framework
+
+![SNS Alerts](screenshots/sns_alerts.png)
+
+---
+
+## Athena Curated Warehouse Tables
+
+![Athena Tables](screenshots/athena_tables.png)
+
+---
+
+## Athena Query Analytics
+
+![Athena Query Results](screenshots/athena_query_results.png)
+
+---
+
+## SCD Type 2 Validation
+
+![SCD Type 2 Validation](screenshots/scd_type2_validation.png)
+
+---
+
+## Curated Data Warehouse Layer
+
+![Curated Layer](screenshots/curated_layer.png)
+
+---
+
+## Audit Logging Framework
+
+![Audit Framework](screenshots/audit_framework.png)
+
+---
+
+## Reject Handling Framework
+
+![Reject Framework](screenshots/reject_framework.png)
 
 ## Future Enhancements
 
