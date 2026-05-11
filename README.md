@@ -75,10 +75,4 @@ The project demonstrates scalable raw-to-curated ETL pipelines, data validation 
 
 ## Project Structure
 
-```text
-datasets/
-glue-scripts/
-athena-queries/
-architecture/
-screenshots/
-documentation/
+
