@@ -363,7 +363,7 @@ This project demonstrates hands-on expertise in:
 
 ## Athena Query Analytics
 
-![Athena Query Results](screenshots/athena_query_results.png)
+![Athena Query Results](screenshots/athena_queries.png)
 
 ---
 
